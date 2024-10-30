@@ -1,7 +1,7 @@
-```markdown
+
 # Image Upload Script
 
-# About
+## About
 This Python script enables guests to easily upload images to a designated Google Drive folder. It simplifies the process of collecting images from users without requiring direct access to the Drive account.
 
 ## Features
@@ -53,5 +53,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Google Drive API](https://developers.google.com/drive)
 - [Python](https://www.python.org/)
 ```
-
-
