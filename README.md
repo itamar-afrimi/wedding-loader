@@ -1,5 +1,3 @@
-Here’s a template for your README file that you can customize for your Python script:
-
 ```markdown
 # Image Upload Script
 
