@@ -38,7 +38,7 @@ This Python script enables guests to easily upload images to a designated Google
 ## Usage
 1. Run the script:
    ```bash
-   python upload_script.py
+   python app.py
    ```
 
 2. Follow the on-screen instructions to upload images.
